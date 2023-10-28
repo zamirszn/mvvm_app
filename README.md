@@ -1,3 +1,3 @@
 # mvvm_app
 
-A new Flutter project.
+Flutter app show casing the model view view-model architecture
